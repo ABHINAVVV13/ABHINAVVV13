@@ -10,6 +10,7 @@
 - 💬 Ask me about **OSMnx,networkx,matplotlib,open-street-maps,python,java,Compilers**
 
 - 📫 How to reach me **arputta@mun.ca**
+-            or **abhinavreddyputta01@gmail.com**
 
 - ⚡ Fun fact **I count from 0 😆**
 
